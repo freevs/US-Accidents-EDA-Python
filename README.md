@@ -1,7 +1,8 @@
-# US-Accidents-EDA
+# US-Accidents-EDA :page_with_curl:
+
 The goal of this project is to investigate various attributes and trends on temperature, weather condition, traffic signals that affect the accidents occuring.The data is  collected from 49 states of the United States of America over the period between February 2016 and December 2020. 
 
-## Steps Followed:
+# Steps Followed :pen:
 
 1. Selected a large dataset from Kaggle.
 
@@ -13,4 +14,6 @@ The goal of this project is to investigate various attributes and trends on temp
 
 5. Summarize the inferences.
 
+# Tools Used :hammer_and_pick:
 
+![](desktop/images.png)
